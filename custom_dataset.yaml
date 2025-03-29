@@ -1,0 +1,10 @@
+path: /home/rijo/Documents/at_vs/weapon_dataset # dataset root dir
+train: train # train images 
+val:  val # val images 
+test: # test images (optional)
+
+
+names:
+    0: Knife
+    1: Gun
+    
